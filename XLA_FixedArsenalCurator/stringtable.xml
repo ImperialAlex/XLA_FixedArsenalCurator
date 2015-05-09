@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="XLA_FixedArsenalCurator">
+	<Package name="Labels">
+        <!-- Add FA -->
+		<Key ID="STR_XLA_FixedArsenalCurator_ModuleAddFA">
+			<Original>Add Fixed Arsenal</Original>
+			<English>Add Fixed Arsenal</English>
+			<German>Fixed Arsenal hinzufügen</German>
+		</Key>
+        <Key ID="STR_XLA_FixedArsenalCurator_ModuleAddFA_Desc">
+			<Original>Add Fixed Arsenal to an Object</Original>
+			<English>Add Fixed Arsenal to an Object</English>
+			<German>Fügt Fixed Arsenal zu einem Objekt hinzu</German>
+		</Key>
+        <Key ID="STR_XLA_FixedArsenalCurator_ModuleAddFA_Done">
+			<Original>XLA Fixed Arsenal added</Original>
+			<English>XLA Fixed Arsenal added</English>
+			<German>XLA Fixed Arsenal hinzugefügt</German>
+		</Key>
+        
+        <!-- Remove FA -->
+		<Key ID="STR_XLA_FixedArsenalCurator_ModuleRmFA">
+			<Original>Remove Fixed Arsenal</Original>
+			<English>Remove Fixed Arsenal</English>
+			<German>Fixed Arsenal entfernen</German>
+		</Key>
+        <Key ID="STR_XLA_FixedArsenalCurator_ModuleRmFA_Desc">
+			<Original>Remove Fixed Arsenal from an Object</Original>
+			<English>Remove Fixed Arsenal from an Object</English>
+			<German>Entfernt Fixed Arsenal von einem Objekt hinzu</German>
+		</Key>
+        <Key ID="STR_XLA_FixedArsenalCurator_ModuleRmFA_Done">
+			<Original>XLA Fixed Arsenal removed</Original>
+			<English>XLA Fixed Arsenal removed</English>
+			<German>XLA Fixed Arsenal entfernt</German>
+		</Key>
+        
+        <!-- Open FA -->
+		<Key ID="STR_XLA_FixedArsenalCurator_ModuleOpenFA">
+			<Original>Open Fixed Arsenal</Original>
+			<English>Open Fixed Arsenal</English>
+			<German>Fixed Arsenal öffnen</German>
+		</Key>
+        <Key ID="STR_XLA_FixedArsenalCurator_ModuleOpenFA_Desc">
+			<Original>Open Fixed Arsenal with the selected Unit</Original>
+			<English>Open Fixed Arsenal with the selected Unit</English>
+			<German>Öffnet Fixed Arsenal mit der ausgewählten Einheit</German>
+		</Key>
+        
+        <!-- FA Category & Action name-->
+        <Key ID="STR_XLA_FixedArsenalCurator_ModuleCategory">
+			<Original>XLA Fixed Arsenal</Original>
+			<English>XLA Fixed Arsenal</English>
+			<German>XLA Fixed Arsenal</German>
+		</Key>
+        <Key ID="STR_XLA_FixedArsenalActionName">
+			<Original>Virtual Arsenal (XLA)</Original>
+			<English>Virtual Arsenal (XLA)</English>
+			<German>Virtuelles Arsenal (XLA)</German>
+		</Key>
+
+
+    </Package>
+</Project>
